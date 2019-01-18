@@ -7,7 +7,6 @@ class Expenses extends Component {
         super(props);
         this.state = {
             expenses : [],
-            
         }
     }
 
