@@ -17,6 +17,7 @@ class App extends Component {
           <Subscriber index={6}/>
           <Subscriber index={7}/>
           <Subscriber index={8}/>                  
+          <Subscriber index={9}/>  
       </div>
     );
   }
