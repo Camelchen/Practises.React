@@ -31,14 +31,7 @@
   color:blue;
   background-color: blue;
 }
-.Star-Hovered{
-  background-color: blue;
-}
 
-
-.Star:hover{
-  background-color: blue;
-}
 
 @keyframes App-logo-spin {
   from {
